@@ -1,5 +1,5 @@
 <template>
-  <div>
+    <div>
         <nav class="nav has-shadow">
             <div class="container">
                 <a href="/">
@@ -25,4 +25,7 @@ export default {
 }
 </script>
 
+<style lang="scss">
+    @import '~bulma';
+</style>
 
